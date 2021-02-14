@@ -1,0 +1,5 @@
+package com.martin.cursomc.resources.exception;
+
+public class ResourceExceptionHandler {
+
+}

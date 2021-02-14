@@ -1,0 +1,5 @@
+package com.martin.cursomc.services.exceptions;
+
+public class ObjectNotFoundException {
+
+}
