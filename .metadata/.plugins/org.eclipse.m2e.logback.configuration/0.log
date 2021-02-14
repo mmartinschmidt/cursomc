@@ -817,3 +817,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2021-02-13 21:15:06,371 [Worker-71: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-02-13 21:15:06,504 [Worker-71: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-02-13 21:15:06,509 [Worker-71: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-13 21:15:06,509 [Worker-71: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-13 21:15:06,510 [Worker-71: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\temp\ws4\cursomc\src\test\resources
+2021-02-13 21:51:04,328 [Worker-88: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-13 21:51:04,329 [Worker-88: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-13 21:51:04,331 [Worker-88: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-13 21:51:04,380 [Worker-88: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-13 21:51:04,381 [Worker-88: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-13 21:51:04,381 [Worker-88: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
