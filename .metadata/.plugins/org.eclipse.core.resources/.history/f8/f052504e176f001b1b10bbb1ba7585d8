@@ -1,0 +1,5 @@
+package com.martin.cursomc.repositories;
+
+public class PedidoRepository {
+
+}
