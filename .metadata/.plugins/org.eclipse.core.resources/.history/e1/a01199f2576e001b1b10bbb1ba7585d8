@@ -1,0 +1,29 @@
+package com.martin.cursomc;
+
+import  org.springframework.beans.factory.annotation.Autowired ;
+import  org.springframework.boot.SpringApplication ;
+import  org.springframework.boot.autoconfigure.SpringBootApplication ;
+
+import  com.martin.cursomc.repositories.CategoriaRepository ;
+
+@SpringBootApplication
+public class  CursomcApplication  implementa CommandLineRunner {
+
+	@Autowired
+	privado  CategoriaRepository categoriaRepository;
+
+	public  static  void  main ( String [] args ) {
+		SpringApplication . run ( CursomcApplication . class, args);
+	}
+}
+
+	@Sobrepor
+	public  void  run ( String ... args ) throws  Exception {
+
+		Categoria cat1 =  nova  Categoria ( null , " Informática " );
+		Categoria cat2 =  nova  Categoria ( null , " Escritório " );
+
+		categoriaRepository . saveAll ( Arrays . asList (cat1, cat2));
+	}
+	
+} 
