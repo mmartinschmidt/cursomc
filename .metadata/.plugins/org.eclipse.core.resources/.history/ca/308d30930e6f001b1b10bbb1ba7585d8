@@ -11,7 +11,6 @@ import com.martin.cursomc.domain.Produto;
 import com.martin.cursomc.domain.Cidade;
 import com.martin.cursomc.domain.Estado;
 import com.martin.cursomc.domain.Cliente;
-import com.martin.cursomc.domain.enums.TipoCliente;
 import com.martin.cursomc.domain.Endereco;
 
 import com.martin.cursomc.repositories.CategoriaRepository;

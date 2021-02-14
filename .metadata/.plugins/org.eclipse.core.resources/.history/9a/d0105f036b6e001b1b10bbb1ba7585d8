@@ -1,0 +1,5 @@
+package com.martin.cursomc.domain.enums;
+
+public enum TipoCliente {
+
+}
